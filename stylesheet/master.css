@@ -321,7 +321,7 @@ main {
                     transform: scale(1.05);
                     background-color: rgba(243, 74, 100, 0.842);
 
-                    border: 2px solid rgba(238, 235, 235, 0.945);
+                    border: 1px solid white;
 
                     >i {
                         color: white;
