@@ -3,7 +3,7 @@
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![1h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/a733a190-8017-4445-86dd-cc4a1adc90dc)
-![2h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/3ba7957a-8c6a-4c88-a8b3-5d0a9b066045)
+![2h1](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/9d080792-eb59-4e29-8025-67c4d3be6fbc)
 ![3h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/d55ee6a7-996f-43cd-bf66-da9002f94537)
 ![4h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/b8e4a6ee-5cbc-4f7d-8c2a-24be813949a2)
 ![5h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/6dec7cd8-db86-449a-b033-301f26e5c70b)
