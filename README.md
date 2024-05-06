@@ -10,7 +10,7 @@
 ![11h](https://github.com/zohreFaraji/nikeProject030106/assets/165832749/b41a87a7-b736-41c7-96b4-0d17de19e035)
 
 
-- **You can see information about my project**
+**You can see information about my project**
   
 - [Demo Project](https://zohrefaraji.github.io/nikeProject030106/)
   
